@@ -29,9 +29,10 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajetÃ
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
-![GITHUB](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+
 
 ## ðŸ“‹ Projetos Desenvolvidos
 
