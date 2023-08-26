@@ -14,13 +14,13 @@ Atualmente estou em transição de carreira, estudando, aprendendo e amando esse
 ## 🧑🏽‍💻 Tecnologias
 | Tecnologia | Situação |
 |------|------|
-| HTML |[Concluído](https://www.estudonauta.com/)
-| CSS |[Concluído](https://www.estudonauta.com/) 
+| ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) |[Concluído](https://www.estudonauta.com/)
+| ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) |[Concluído](https://www.estudonauta.com/) 
 
 ## 📋 Projetos Desenvolvidos
 - [Landing Page](https://simoneferronato.github.io/landing-page/)
 
 
 ## ✉️ Contatos
-- [Linkedin](https://www.linkedin.com/in/simone-regina-ferronato-couto-539737134/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simone-regina-ferronato-couto-539737134/)
 - [Email](mailto:simoneferronato0221@gmail.com)
