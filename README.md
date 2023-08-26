@@ -22,15 +22,15 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajetÃ
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![NODE.JS](https://img.shields.io/badge/Node.js-181717.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![NODE.JS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
-![GITHUB](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-181717.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+![GITHUB](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 
 ## ðŸ“‹ Projetos Desenvolvidos
