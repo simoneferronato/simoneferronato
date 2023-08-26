@@ -16,8 +16,9 @@ Atualmente estou em transição de carreira, estudando, aprendendo e amando esse
 
 ## 📋 Projetos Desenvolvidos
 - [Landing Page](https://simoneferronato.github.io/landing-page/)
-
-## ✉️ Contatos
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simoneferronato&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&text_color=FFF&hide_title=true&hide=stars)
+## ✉️ Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simone-regina-ferronato-couto-539737134/)
-- [Email](mailto:simoneferronato0221@gmail.com)
+<a href =  "mailto:simoneferronato0221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 
