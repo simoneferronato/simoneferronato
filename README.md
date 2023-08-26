@@ -33,7 +33,6 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajet�
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 
-
 ## 📋 Projetos Desenvolvidos
 
 [Landing Page](https://simoneferronato.github.io/landing-page/) 🥇💻
