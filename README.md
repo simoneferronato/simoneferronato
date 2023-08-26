@@ -45,11 +45,6 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajet�
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simoneferronato&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## ✉️ Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simone-regina-ferronato-couto-539737134/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/simoneferronato/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:simoneferronato0221@gmail.com)
-
 ##
 - Badges by <a href="https://shields.io/">shields.io</a><br>
 - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
