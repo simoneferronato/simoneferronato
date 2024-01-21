@@ -24,7 +24,6 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajet√
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NODE.JS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
