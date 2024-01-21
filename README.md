@@ -23,10 +23,7 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajet√
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NODE.JS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![NOTION](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
