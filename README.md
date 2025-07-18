@@ -13,8 +13,6 @@ Perfil criado para publicar meu aprendizado, planejar e acompanhar minha trajetÃ
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:simoneferronato0221@gmail.com)
 
 ## ðŸ“’ Cursos em Andamento
-[Bootcamp Santander Backend Java](https://web.dio.me/track/santander-bootcamp-2023-backend-java) |
-[UX Design](https://www.coursera.org/professional-certificates/google-ux-design) |
 [JavaScript](https://www.estudonauta.com/) |
 [Python](https://www.estudonauta.com/)
 
